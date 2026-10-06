@@ -1,2 +1,3 @@
 # app-aprender-jugando
-Esta es una prueba de creación de repositorio
+Aplicación educativa para apoyar el aprendizaje mediante herramientas digitales
+interactivas.
