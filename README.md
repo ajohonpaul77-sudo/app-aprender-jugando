@@ -10,3 +10,18 @@ HTML, CSS, JS, Python, Firebase, APIs, librerías, etc.
 
 Instalación y ejecución
 Cómo descargar, instalar dependencias y ejecutar el proyecto
+
+LO QUE DEBE ESTAR EN EL README TECNICO
+# NOMBRE DE LA APP
+## Descripción
+## Problema
+## Solución
+## Objetivo
+## Público objetivo
+## Funcionalidades
+## Tecnologías
+## Equipo
+## Evidencias
+## Instalación
+## Demo
+## Estado del proyecto
